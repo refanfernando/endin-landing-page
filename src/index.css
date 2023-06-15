@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;600&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Montserrat", "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+.logo-best {
+  animation: animatedTopToBottom 2.5s ease-out;
+}
+
+.text-logo {
+  animation: animatedHideToShow 2s ease-out;
+}
+
+@keyframes animatedTopToBottom {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0.2;
+  }
+  100% {
+    transform: translateY(0%);
+  }
+}
+
+@keyframes animatedHideToShow {
+  0% {
+    opacity: 0.2;
+    color: red;
+  }
+  50% {
+    opacity: 0.5;
+    color: yellow;
+  }
+  100% {
+    opacity: 1;
+  }
+}

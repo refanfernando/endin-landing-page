@@ -1,0 +1,63 @@
+[
+  {
+    "title": "ECO FARMING",
+    "imgSource": "src/assets/eco-farming.jpg",
+    "paragraf": "Eco Farming adalah pupuk organik super aktif yang mengandung unsur hara yang lengkap dengan memanfaatkan teknologi mikroba sebagai bioaktivator untuk merestorasi kesuburan tanah. Penggunaan Pupuk Eco Farming mampu menekan penggunaan pupuk anorganik yang berlebih hingga 75%, sehingga dapat menjadi alternatif pengembangan produksi pertanian sehat dan ramah lingkungan.",
+    "benefit": [
+      "Meringankan biaya produksi.",
+      "Mempercepat masa panen.",
+      "Meningkatkan imunitas tanaman.",
+      "Meningkatkan unsur hara tanah.",
+      "Meningkatkan hasil produksi.",
+      "Meningkatkan kualitas produksi."
+    ],
+    "instruction": [
+      "1 tube Eco Farming dibiangkan ke 1 liter pelarut untuk penyiraman tanaman seluas 1 hektar.",
+      "Setiap 100 ml dari biang dapat diencerkan ke 1 tangki 15 – 20 liter air.",
+      "Selengkapnya lihat di brosur/buku panduan Eco Farming."
+    ],
+    "contentsInPackaging": "1 Tube 30 g.",
+    "skKementan": "039.OL./Kpts/SR.310/B/01/2020",
+    "sertificat": "574-INOFICE/LSO/003-IDN/09.20"
+  },
+  {
+    "title": "PILLOW SLOW RELEASE",
+    "imgSource": "src/assets/pillow-slow-release.jpg",
+    "paragraf": "Pupuk Majemuk makro dan mikro di Prioritaskan untuk tanaman batang keras, dengan teknologi tepat guna mampu meningkatkan pertumbuhan daun dan buah sehingga bisa berbuah terus-menerus bahkan berbuah di luar musim dan karena bentuknya padat secara teknis sangat cocok untuk pemupukan di area perkebunan tanpa harus bingung menggunakan air.",
+    "benefit": [
+      "Meningkatkan hasil panen menjadi lebih cepat.",
+      "Meningkatkan imunitas tanaman.",
+      "Meningkatkan kesuburan tanah.",
+      "Memberikan penyerapan pupuk lebih tepat guna.",
+      "Mempercepat pertumbuhan tanaman.",
+      "Menghemat biaya pemupukan."
+    ],
+    "instruction": [
+      "Tanaman usia produktif : 1 sachet pupuk berat 100 g untuk pemupukan 3 bulan sekali.",
+      "Tanaman masa vegetatif atau belum berbuah : 2 sendok makan, 1 bulan sekali."
+    ],
+    "contentsInPackaging": "1 box isi 10 sachet @100 g.",
+    "skKementan": "436.OL/Kpts/SR.320/B/07/2019"
+  },
+  {
+    "title": "LVN COLLAGEN",
+    "imgSource": "src/assets/lvn-colagen.png",
+    "paragraf": "LVN COLLAGEN adalah Minuman Rasa Stroberi yang mengandung Kolagen Ikan yang bisa Menghaluskan Kulit dan Bisa Merawat Kulit Sehingga Kulit akan tampak Cerah Setiap Hari",
+    "instruction": ["1 Box isi 10 Sachet di Minum Setiap Hari Pada Siang Hari"]
+  },
+  {
+    "title": "HABSPRO",
+    "imgSource": "src/assets/habspro.jpg",
+    "paragraf": "Habspro Adalah Obat Herbal Untuk Segala Jenis Penyakit yang Terbuat dari Habbatussauda atau jintem hitam, Propolis dan Madu yang Mampu menambah Stamina Serta Imunitas Bagi Tubuh Sehingga Sehat Setiap Hari.",
+    "instruction": ["2 Kapsul 2x Sehari Pagi dan Malam"]
+  },
+  {
+    "title": "ECOMAXX",
+    "imgSource": "src/assets/ecomax.jpg",
+    "paragraf": "Ecomaxx Coffee adalah Minuman Kopi dari Maca, Tribulus dan Ginseng yang mampu Meningkatkan stamina pria dan wanita dewasa sehingga akan tahan lama dalam berhubungan intim dan Meningkatkan Libido bagi Pria sehingga Memuaskan Istri Anda.",
+    "instruction": [
+      "1 Box isi 10 Sachet",
+      "1 Sachet Diminum Setiap Hari Pada Malam Hari"
+    ]
+  }
+]
