@@ -38,7 +38,14 @@ function Header() {
             mx-auto
           "
         />
-        <p className="text-logo font-bold tracking-wide mt-2">
+        <p
+          className="
+            text-logo
+            font-bold
+            tracking-wide
+            mt-2
+          "
+        >
           BEST CORPORATION SYARIAH
         </p>
       </div>
