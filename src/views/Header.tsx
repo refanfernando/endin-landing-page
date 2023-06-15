@@ -2,7 +2,7 @@ function Header() {
   return (
     <header
       style={{
-        backgroundImage: "url(src/assets/mount.jpg)",
+        backgroundImage: "url(img/mount.jpg)",
       }}
       className="
         bg-fixed
@@ -28,7 +28,7 @@ function Header() {
         "
       >
         <img
-          src="src/assets/logo-best.png"
+          src="img/logo-best.png"
           alt="logo-best"
           className="
             logo-best

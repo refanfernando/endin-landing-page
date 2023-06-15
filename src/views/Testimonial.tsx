@@ -173,11 +173,7 @@ function Testimonial() {
           <br />
           MERAIH IMPIAN
         </h2>
-        <img
-          src="src/assets/siap-bisnis.png"
-          alt="siap bisnis"
-          className="mx-auto"
-        />
+        <img src="img/siap-bisnis.png" alt="siap bisnis" className="mx-auto" />
         <h2>
           “BERHENTILAH JADI PENONTON,
           <br />

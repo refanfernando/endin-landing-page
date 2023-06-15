@@ -1,7 +1,7 @@
 [
   {
     "title": "ECO FARMING",
-    "imgSource": "src/assets/eco-farming.jpg",
+    "imgSource": "img/eco-farming.jpg",
     "paragraf": "Eco Farming adalah pupuk organik super aktif yang mengandung unsur hara yang lengkap dengan memanfaatkan teknologi mikroba sebagai bioaktivator untuk merestorasi kesuburan tanah. Penggunaan Pupuk Eco Farming mampu menekan penggunaan pupuk anorganik yang berlebih hingga 75%, sehingga dapat menjadi alternatif pengembangan produksi pertanian sehat dan ramah lingkungan.",
     "benefit": [
       "Meringankan biaya produksi.",
@@ -22,7 +22,7 @@
   },
   {
     "title": "PILLOW SLOW RELEASE",
-    "imgSource": "src/assets/pillow-slow-release.jpg",
+    "imgSource": "img/pillow-slow-release.jpg",
     "paragraf": "Pupuk Majemuk makro dan mikro di Prioritaskan untuk tanaman batang keras, dengan teknologi tepat guna mampu meningkatkan pertumbuhan daun dan buah sehingga bisa berbuah terus-menerus bahkan berbuah di luar musim dan karena bentuknya padat secara teknis sangat cocok untuk pemupukan di area perkebunan tanpa harus bingung menggunakan air.",
     "benefit": [
       "Meningkatkan hasil panen menjadi lebih cepat.",
@@ -41,19 +41,19 @@
   },
   {
     "title": "LVN COLLAGEN",
-    "imgSource": "src/assets/lvn-colagen.png",
+    "imgSource": "img/lvn-colagen.png",
     "paragraf": "LVN COLLAGEN adalah Minuman Rasa Stroberi yang mengandung Kolagen Ikan yang bisa Menghaluskan Kulit dan Bisa Merawat Kulit Sehingga Kulit akan tampak Cerah Setiap Hari",
     "instruction": ["1 Box isi 10 Sachet di Minum Setiap Hari Pada Siang Hari"]
   },
   {
     "title": "HABSPRO",
-    "imgSource": "src/assets/habspro.jpg",
+    "imgSource": "img/habspro.jpg",
     "paragraf": "Habspro Adalah Obat Herbal Untuk Segala Jenis Penyakit yang Terbuat dari Habbatussauda atau jintem hitam, Propolis dan Madu yang Mampu menambah Stamina Serta Imunitas Bagi Tubuh Sehingga Sehat Setiap Hari.",
     "instruction": ["2 Kapsul 2x Sehari Pagi dan Malam"]
   },
   {
     "title": "ECOMAXX",
-    "imgSource": "src/assets/ecomax.jpg",
+    "imgSource": "img/ecomax.jpg",
     "paragraf": "Ecomaxx Coffee adalah Minuman Kopi dari Maca, Tribulus dan Ginseng yang mampu Meningkatkan stamina pria dan wanita dewasa sehingga akan tahan lama dalam berhubungan intim dan Meningkatkan Libido bagi Pria sehingga Memuaskan Istri Anda.",
     "instruction": [
       "1 Box isi 10 Sachet",
