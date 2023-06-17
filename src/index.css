@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@100;200;400;600&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 * {
-  font-family: "Montserrat", "Courier New", Courier, monospace;
+  font-family: "Merriweather", "Courier New", Courier, monospace;
   margin: 0;
   padding: 0;
 }
@@ -13,7 +13,8 @@
   animation: animatedTopToBottom 2.5s ease-out;
 }
 
-.text-logo {
+.text-logo,
+.heading {
   animation: animatedHideToShow 2s ease-out;
 }
 

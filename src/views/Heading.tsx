@@ -1,6 +1,6 @@
 function Heading() {
   return (
-    <>
+    <div className="heading">
       <h1 className="leading-8 text-slate-900">
         Telah Hadir Peluang Bisnis Terbaik
         <br />
@@ -13,7 +13,7 @@ function Heading() {
         <br />
         SUDAH TERBUKTI, DAN SEKARANG GILIRAN ANDA
       </h1>
-    </>
+    </div>
   );
 }
 

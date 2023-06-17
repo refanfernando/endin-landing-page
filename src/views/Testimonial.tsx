@@ -105,7 +105,7 @@ function Testimonial() {
             className="
               bg-gray-200
               rounded-md
-              shadow-sm
+              shadow-lg
               p-8
               border-[1px]
               w-[90%]
@@ -115,7 +115,7 @@ function Testimonial() {
               mt-8
             "
           >
-            <div className="bg-red-600 py-4 text-white">
+            <div className="bg-red-600 py-4 text-white shadow-md">
               <p className="font-semibold text-xl">Rp. 2.600.000</p>
             </div>
             <p className="my-8">Anda akan mendapatkan</p>
@@ -156,10 +156,16 @@ function Testimonial() {
                 my-8
                 mx-auto
                 hover:opacity-75
+                shadow-lg
               "
               onClick={clickWa}
             >
-              DAFTAR SEKEARANG
+              <img
+                src="img/whatsapp.png"
+                alt="siap bisnis"
+                className="mx-auto w-10 inline"
+              />
+              DAFTAR SEKARANG
             </button>
             <i className="text-sm">Note: Syarat & Ketentuan berlaku!</i>
           </div>
@@ -184,7 +190,8 @@ function Testimonial() {
       </section>
       <section className="mt-4">
         <p>Jika ada pertanyaan, silakan hubungi kontak saya dibawah ini:</p>
-        <div className="font-bold text-2xl my-6">
+        <img src="img/profile.jpeg" alt="profile" className="mx-auto w-[50%]" />
+        <div className="font-bold text-xl sm:text-2xl my-6">
           <h1>Nama: H.ENDIN ESWARA</h1>
           <h1>HP/WhatsApp: 081218442481</h1>
         </div>

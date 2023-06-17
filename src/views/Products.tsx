@@ -17,7 +17,11 @@ data.forEach((x, index) => {
     value: (
       <div>
         <div className="flex justify-center">
-          <img src={x.imgSource} alt={x.title} className="w-[50%]" />
+          <img
+            src={x.imgSource}
+            alt={x.title}
+            className="w-[100%] sm:w-[50%]"
+          />
         </div>
         <p className="text-justify">{x.paragraf}</p>
         {x.benefit && (
